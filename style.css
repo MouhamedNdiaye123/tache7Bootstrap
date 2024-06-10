@@ -66,4 +66,8 @@ footer{
     .about .box{
         margin-top: 0;
     }
+    .product .box1{
+        
+       display: none;
+    }
 }
