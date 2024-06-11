@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(rgba(0, 0, 0, 0.526), rgba(0, 0, 0, 0.553)), no-repeat center/cover url(./images/bg.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.526), rgba(0, 0, 0, 0.553)), no-repeat center/cover url(./images/fraise-bg.jpeg);
 }
 nav .navbar-toggler-icon, .navbar-toggler{
     color: aliceblue;
@@ -52,7 +52,10 @@ footer{
     font-size: 14px;
 }
 
-
+.day{
+    border-bottom: 1px solid #311919;
+    margin-bottom: -5px;
+}
 
 
 
@@ -70,4 +73,7 @@ footer{
         
        display: none;
     }
+    /* .product .boxs{
+        margin: 10px 0;
+    } */
 }
